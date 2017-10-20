@@ -19,9 +19,7 @@ This git repo contains 2 version for chord implementation:
 2. Improved ChordX Implementation
 
 ## Setup
-ChordX can be run in 2 ways, Manually and Automated. 
 
-### To run manually, follow the below steps:
 1. Clone the project on local machine.
 2. Enter chordx-original/src directory and compile source files using `javac -cp .:log4j-1.2.17.jar *.java`.
 3. Run the RMI Registry to enable remote procedure calls:
